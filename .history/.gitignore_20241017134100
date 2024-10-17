@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+
+# Vercel
+.vercel
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.idea
+*.swp
+*.swo
